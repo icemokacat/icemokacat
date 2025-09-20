@@ -4,7 +4,6 @@
 
 - 🏦 I'm a Software Engineer – Backend
 - 📝 I regulary write technical articles for [blackcat-dev.kr](http://blackcat-dev.kr/)
-- 💻 I use daily: .js, .java
 - 🧑‍💻 Tech, Study
 
 ![Static Badge](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=white&labelColor=000000&color=000000)![Static Badge](https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot&logoColor=white&labelColor=6DB33F&color=6DB33F)![Static Badge](https://img.shields.io/badge/MySql-4479A1?style=flat&logo=MySql&logoColor=white&labelColor=4479A1&color=4479A1)![Static Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E&color=F7DF1E)![Static Badge](https://img.shields.io/badge/junit5-D24939?style=flat&logo=junit5&logoColor=white&labelColor=%2325A162&color=%2325A162)![Static Badge](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white&labelColor=005F0F&color=005F0F)
