@@ -10,5 +10,5 @@
 
 ![Static Badge](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white&labelColor=D24939&color=D24939) ![Static Badge](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=2496ED&color=2496ED) ![Static Badge](https://img.shields.io/badge/Nginx-D24939?style=flat&logo=nginx&logoColor=white&labelColor=%23009639&color=%23009639) ![Static Badge](https://img.shields.io/badge/Prometheus-D24939?style=flat&logo=prometheus&logoColor=white&labelColor=%23E6522C&color=%23E6522C) ![Static Badge](https://img.shields.io/badge/Redis-D24939?style=flat&logo=Redis&logoColor=white&labelColor=%23CC0000&color=%23CC0000) ![Static Badge](https://img.shields.io/badge/Sonarqube-D24939?style=flat&logo=sonarqubecloud&logoColor=white&labelColor=%23126ED3&color=%23126ED3)
 
-![Moka's GitHub stats](https://github-readme-stats.vercel.app/api?username=icemokacat&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icemokacat&layout=compact)
+![Moka's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=icemokacat&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=icemokacat&layout=compact)
